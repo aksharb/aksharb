@@ -9,7 +9,7 @@
 <br>
 
 <h2> <b>Hey</b> 𝐭𝐡𝐞𝐫𝐞, console.log("Developers 🥰") !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<h1 align="center"> I'm Paras Rawat 🤗 </h1>
+<h1 align="center"> I'm Akshar Bisht 🤗 </h1>
 
 
 <br>
