@@ -3,7 +3,7 @@
 <p>I am learning iOS development with Swift and SwiftUI</p>
 
 <h2>My GitHub stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=aksharb&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=aksharb&show_icons=true&theme=transparent">
 
 <h2>My GitHub contributions:</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksharb&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
@@ -14,3 +14,5 @@
 <li>C,C++, Python, SQL</li>
 <li>Git, GitHub</li>
 </ul>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksharb&theme=transparent&show_icons=true">
