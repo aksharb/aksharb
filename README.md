@@ -5,8 +5,9 @@
 <h2>My GitHub stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=aksharb&show_icons=true&theme=transparent">
 
-<h2>My GitHub contributions:</h2>
+<h2>My GitHub contributions (these are my uploaded projects only):</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksharb&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+
 <h1>Languages, Frameworks and Tools:</h1>
 <ul>
 <li>Swift, SwiftUI, XCode</li>
